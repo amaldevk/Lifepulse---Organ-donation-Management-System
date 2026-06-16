@@ -1,0 +1,4 @@
+backend/uploads/
+backend/node_modules/
+frontend/lifepulse-app/node_modules/
+.env
